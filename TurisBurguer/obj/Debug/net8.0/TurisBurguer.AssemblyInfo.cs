@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurisBurguer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b230f3e5de500c053b628da86a18746bf5689ae3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a4f712de139ac72ed02dc5a1039c241f492679f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurisBurguer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurisBurguer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
